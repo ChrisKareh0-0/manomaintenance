@@ -401,7 +401,15 @@ a:focus,
 #services .shift-left {
   position: relative;
   left: -180px; /* Adjust this value to control how far left the items shift */
-  top: 50px
+  top: 50px; /* Add some vertical offset */
+}
+
+/* Make sure the shift only happens on larger screens */
+@media screen and (max-width: 992px) {
+  #services .shift-left {
+    left: 0;
+    top: 0;
+  }
 }
 /* Portfolio Section */
 #portfolio {
