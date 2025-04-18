@@ -25,6 +25,11 @@
       "smallImage": "img/portfolio/00b79c65078b4cda8ff48d23c02a65ae.jpg"
     },
     {
+      "title": "Ceiling Repair",
+      "largeImage": "img/portfolio/c241c10a721e43ee8da2726331abeb42.jpg",
+      "smallImage": "img/portfolio/c241c10a721e43ee8da2726331abeb42.jpg"
+    },
+    {
       "title": "Kitchen Remodel",
       "largeImage": "img/portfolio/03a297ae4a8245d6be4302847adb929a.jpg",
       "smallImage": "img/portfolio/03a297ae4a8245d6be4302847adb929a.jpg"
@@ -139,11 +144,7 @@
       "largeImage": "img/portfolio/bracket before.jpg",
       "smallImage": "img/portfolio/bracket before.jpg"
     },
-    {
-      "title": "Ceiling Repair",
-      "largeImage": "img/portfolio/c241c10a721e43ee8da2726331abeb42.jpg",
-      "smallImage": "img/portfolio/c241c10a721e43ee8da2726331abeb42.jpg"
-    },
+   
     {
       "title": "Furniture Assembly",
       "largeImage": "img/portfolio/c5667fb05ada46408a24037f2cb444e7.jpg",

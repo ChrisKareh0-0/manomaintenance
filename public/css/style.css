@@ -759,3 +759,10 @@ img {
     font-size: 16px; /* Prevent zoom on focus in iOS */
   }
 }
+
+@media screen and (max-width: 377px) {
+  #menu a.navbar-brand{
+    font-size: 20px;
+    margin-top: 2%;
+  }
+}
