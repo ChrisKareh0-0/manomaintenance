@@ -86,6 +86,14 @@ hr {
   font-weight: 700;
   color: #333;
   text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+
+/* Logo in navbar */
+.navbar-logo {
+  height: 30px;
+  margin-right: 10px;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
@@ -657,17 +665,39 @@ label {
 /* Footer Section*/
 #footer {
   background: #f6f6f6;
-  padding: 30px 0;
+  padding: 40px 0;
 }
 #footer p {
   color: #888;
   font-size: 14px;
+  margin-bottom: 10px;
 }
 #footer a {
-  color: #11ff00;
+  color: #fd8c60;
 }
 #footer a:hover {
-  border-bottom: 2px solid #00ff37;
+  color: #ff7263;
+  text-decoration: none;
+}
+#footer h4 {
+  color: #333;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.footer-contact-info p {
+  margin-bottom: 12px;
+}
+.footer-contact-info i.fa {
+  margin-right: 10px;
+  color: #fd8c60;
+  font-size: 16px;
+  width: 20px;
+  text-align: center;
+}
+.copyright {
+  margin-top: 30px;
+  border-top: 1px solid #eee;
+  padding-top: 20px;
 }
 
 @media (max-width: 768px) {
@@ -745,6 +775,32 @@ label {
   .service-desc {
     margin-bottom: 30px;
   }
+
+  /* Adjust logo size for tablets */
+  .navbar-logo {
+    height: 28px;
+    margin-right: 8px;
+  }
+
+  /* Footer responsive styles */
+  #footer .col-md-4 {
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+  .footer-contact-info {
+    margin-bottom: 20px;
+  }
+
+  .footer-contact-info i.fa {
+    width: auto;
+    margin-right: 5px;
+  }
+
+  .copyright {
+    margin-top: 20px;
+    padding-top: 15px;
+  }
 }
 
 /* Fix image responsiveness */
@@ -764,5 +820,10 @@ img {
   #menu a.navbar-brand{
     font-size: 20px;
     margin-top: 2%;
+  }
+
+  .navbar-logo {
+    height: 24px;
+    margin-right: 8px;
   }
 }
