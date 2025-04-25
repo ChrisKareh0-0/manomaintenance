@@ -13,7 +13,7 @@ export const Header = (props) => {
                   This is manomaintenance
                   <span></span>
                 </h1>
-                <p>Need something fixed? We fix it fast—no YouTube tutorials required.</p>
+                <p>Need something fixed? We fix it fast no YouTube tutorials required.</p>
                 <a
                   href="#about"
                   className="btn btn-custom btn-lg page-scroll"

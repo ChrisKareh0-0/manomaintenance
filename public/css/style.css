@@ -824,9 +824,9 @@ img {
   }
 }
 
-@media screen and (max-width: 377px) {
+@media screen and (max-width: 430px) {
   #menu a.navbar-brand{
-    font-size: 20px;
+    font-size: 17px;
     margin-top: 2%;
   }
 
@@ -913,3 +913,11 @@ img {
     width: 95%;
   }
 }
+
+/* @media screen and (max-wdth: 427px) {
+  #menu a.navbar-brand {
+   
+    font-size: 10px !important;
+   
+  }
+} */
