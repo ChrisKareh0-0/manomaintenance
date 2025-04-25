@@ -1,3 +1,4 @@
+// Made by wirestorm - https://wirestorm.software
 import React from "react";
 
 export const About = (props) => {
@@ -41,3 +42,4 @@ export const About = (props) => {
     </div>
   );
 };
+// Made by wirestorm - https://wirestorm.software

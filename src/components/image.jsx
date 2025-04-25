@@ -1,3 +1,4 @@
+// Made by wirestorm - https://wirestorm.software
 import React from "react";
 
 export const Image = ({ title, largeImage, smallImage }) => {
@@ -15,3 +16,4 @@ export const Image = ({ title, largeImage, smallImage }) => {
     </div>
   );
 };
+// Made by wirestorm - https://wirestorm.software

@@ -1,3 +1,4 @@
+// Made by wirestorm - https://wirestorm.software
 import React from "react";
 
 export const Services = (props) => {
@@ -13,8 +14,8 @@ export const Services = (props) => {
         <div className="row">
           {props.data
             ? props.data.map((d, i) => (
-                <div 
-                  key={`${d.name}-${i}`} 
+                <div
+                  key={`${d.name}-${i}`}
                   className={`col-md-4 col-sm-6 col-xs-12 ${i >= 3 && i <= 4 ? 'shift-left' : ''}`}
                 >
                   <i className={d.icon}></i>
@@ -29,3 +30,4 @@ export const Services = (props) => {
     </div>
   );
 };
+// Made by wirestorm - https://wirestorm.software

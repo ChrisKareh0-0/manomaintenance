@@ -1,3 +1,4 @@
+// Made by wirestorm - https://wirestorm.software
 import React from "react";
 
 export const Navigation = (props) => {
@@ -69,3 +70,4 @@ export const Navigation = (props) => {
     </nav>
   );
 };
+// Made by wirestorm - https://wirestorm.software

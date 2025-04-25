@@ -1,3 +1,4 @@
+// Made by wirestorm - https://wirestorm.software
 import React, { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
@@ -38,3 +39,4 @@ const App = () => {
 };
 
 export default App;
+// Made by wirestorm - https://wirestorm.software

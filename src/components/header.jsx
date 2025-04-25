@@ -1,3 +1,4 @@
+// Made by wirestorm - https://wirestorm.software
 import React from "react";
 
 export const Header = (props) => {
@@ -27,3 +28,4 @@ export const Header = (props) => {
     </header>
   );
 };
+// Made by wirestorm - https://wirestorm.software

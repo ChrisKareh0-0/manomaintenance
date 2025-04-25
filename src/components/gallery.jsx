@@ -1,3 +1,4 @@
+// Made by wirestorm - https://wirestorm.software
 import { Image } from "./image";
 import React from "react";
 
@@ -51,7 +52,7 @@ export const Gallery = (props) => {
               </p>
               <p className="copyright">
                 &copy; {new Date().getFullYear()} ManoMaintenance<br />
-                Powered by{" "}
+                Made by{" "}
                 <a href="https://wirestorm.software" rel="nofollow">
                   Wirestorm Software
                 </a>
@@ -67,3 +68,4 @@ export const Gallery = (props) => {
     </div>
   );
 };
+// Made by wirestorm - https://wirestorm.software
