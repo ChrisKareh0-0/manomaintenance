@@ -42,13 +42,23 @@ export const Gallery = (props) => {
             <div className="col-md-4 text-center footer-contact-info">
               <h4>Contact Us</h4>
               <p>
-                <i className="fa fa-map-marker"></i> {contactData.address || "4321 California St, San Francisco, CA 12345"}
+                <a
+                  href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(contactData.address || "16192 Coastal Hwy, Lewes, DE 19958")}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <i className="fa fa-map-marker"></i> {contactData.address || "16192 Coastal Hwy, Lewes, DE 19958"}
+                </a>
               </p>
               <p>
-                <i className="fa fa-phone"></i> {contactData.phone || "+1 123 456 1234"}
+                <a href={`tel:${contactData.phone?.replace(/\s+/g, '') || "(302) 550-8833"}`}>
+                  <i className="fa fa-phone"></i> {contactData.phone || "(302) 550-8833"}
+                </a>
               </p>
               <p>
-                <i className="fa fa-envelope"></i> {contactData.email || "info@company.com"}
+                <a href={`mailto:${contactData.email || "service@manomaintenance.com"}`}>
+                  <i className="fa fa-envelope"></i> {contactData.email || "service@manomaintenance.com"}
+                </a>
               </p>
               <p className="copyright">
                 &copy; {new Date().getFullYear()} ManoMaintenance<br />

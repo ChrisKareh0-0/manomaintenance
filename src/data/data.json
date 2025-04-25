@@ -144,7 +144,7 @@
       "largeImage": "img/portfolio/bracket before.jpg",
       "smallImage": "img/portfolio/bracket before.jpg"
     },
-   
+
     {
       "title": "Furniture Assembly",
       "largeImage": "img/portfolio/c5667fb05ada46408a24037f2cb444e7.jpg",
@@ -200,7 +200,7 @@
       "largeImage": "img/portfolio/f893e725fe064a9993f3ead2b2ee0cf2.jpg",
       "smallImage": "img/portfolio/f893e725fe064a9993f3ead2b2ee0cf2.jpg"
     },
-    
+
     {
       "title": "Hinge Repair",
       "largeImage": "img/portfolio/hinges after.jpg",
@@ -334,9 +334,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "16192 Coastal Hwy, Lewes, DE 19958",
+    "phone": "(302) 550-8833",
+    "email": "service@manomaintenance.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

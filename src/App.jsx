@@ -9,7 +9,7 @@ import { Gallery } from "./components/gallery";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
-import { WhatsAppFloat } from "./components/WhatsAppFloat";
+import { ContactFloat } from "./components/ContactFloat";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -33,7 +33,7 @@ const App = () => {
       <Services data={landingPageData.Services} />
       <Gallery data={landingPageData.Gallery} contactData={landingPageData.Contact} />
       {/* <Testimonials data={landingPageData.Testimonials} /> */}
-      {/* <WhatsAppFloat /> */}
+      <ContactFloat />
     </div>
   );
 };
