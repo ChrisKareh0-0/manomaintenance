@@ -1,11 +1,13 @@
 // Made by wirestorm - https://wirestorm.software
 import React, { useState, useEffect } from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
 import { Gallery } from "./components/gallery";
+import { GalleryPage } from "./components/GalleryPage";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
@@ -19,12 +21,7 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
   speedAsDuration: true,
 });
 
-const App = () => {
-  const [landingPageData, setLandingPageData] = useState({});
-  useEffect(() => {
-    setLandingPageData(JsonData);
-  }, []);
-
+const Home = ({ landingPageData }) => {
   return (
     <div>
       <Navigation />
@@ -35,6 +32,26 @@ const App = () => {
       {/* <Testimonials data={landingPageData.Testimonials} /> */}
       <ContactFloat />
     </div>
+  );
+};
+
+const App = () => {
+  const [landingPageData, setLandingPageData] = useState({});
+  useEffect(() => {
+    setLandingPageData(JsonData);
+  }, []);
+
+  return (
+    <Router>
+      <Switch>
+        <Route exact path="/">
+          <Home landingPageData={landingPageData} />
+        </Route>
+        <Route path="/gallery">
+          <GalleryPage data={landingPageData.Gallery} />
+        </Route>
+      </Switch>
+    </Router>
   );
 };
 

@@ -4,7 +4,7 @@
     "paragraph": "Need something fixed? We fix it fast no YouTube tutorials required."
   },
   "About": {
-    "paragraph": "At ManoMaintenance, we’re all about making your property problems disappear without the magic wand (just really good tools). From leaky faucets to full-on renovations, our team handles it all with precision, professionalism, and a healthy dose of can-do attitude. We’re the go-to crew for homeowners and businesses who want things done right the first time no guesswork, no duct tape solutions (unless you really want that). Reliable, friendly, and always ready to roll up our sleeves that’s the Mano way.",
+    "paragraph": "At ManoMaintenance, we're all about making your property problems disappear without the magic wand (just really good tools). From leaky faucets to full-on renovations, our team handles it all with precision, professionalism, and a healthy dose of can-do attitude. We're the go-to crew for homeowners and businesses who want things done right the first time no guesswork, no duct tape solutions (unless you really want that). Reliable, friendly, and always ready to roll up our sleeves that's the Mano way.",
     "Why": [
       "Punctual",
       "Qualified",
@@ -20,236 +20,28 @@
   },
   "Gallery": [
     {
-      "title": "Home Renovation",
-      "largeImage": "img/portfolio/00b79c65078b4cda8ff48d23c02a65ae.jpg",
-      "smallImage": "img/portfolio/00b79c65078b4cda8ff48d23c02a65ae.jpg"
+      "title": "",
+      "beforeImage": "img/portfolio/Before Bathroom.jpeg",
+      "afterImage": "img/portfolio/After Bathroom.jpeg",
+      "description": ""
     },
     {
-      "title": "Ceiling Repair",
-      "largeImage": "img/portfolio/c241c10a721e43ee8da2726331abeb42.jpg",
-      "smallImage": "img/portfolio/c241c10a721e43ee8da2726331abeb42.jpg"
+      "title": "",
+      "beforeImage": "img/portfolio/Before Piping.jpeg",
+      "afterImage": "img/portfolio/After Piping.jpeg",
+      "description": ""
     },
     {
-      "title": "Kitchen Remodel",
-      "largeImage": "img/portfolio/03a297ae4a8245d6be4302847adb929a.jpg",
-      "smallImage": "img/portfolio/03a297ae4a8245d6be4302847adb929a.jpg"
+      "title": "",
+      "beforeImage": "img/portfolio/Before cieling.jpeg",
+      "afterImage": "img/portfolio/After ceiling.jpeg",
+      "description": ""
     },
     {
-      "title": "Bathroom Upgrade",
-      "largeImage": "img/portfolio/0ed7cfb6b7294dd6a668bea2a78915ca.jpg",
-      "smallImage": "img/portfolio/0ed7cfb6b7294dd6a668bea2a78915ca.jpg"
-    },
-    {
-      "title": "Fixture Installation",
-      "largeImage": "img/portfolio/11ae676113d64de5afc7254f0a1b564a.jpg",
-      "smallImage": "img/portfolio/11ae676113d64de5afc7254f0a1b564a.jpg"
-    },
-    {
-      "title": "Plumbing Work",
-      "largeImage": "img/portfolio/250e3024923b416f93ce385f14cc9dda.jpg",
-      "smallImage": "img/portfolio/250e3024923b416f93ce385f14cc9dda.jpg"
-    },
-    {
-      "title": "Electrical Repair",
-      "largeImage": "img/portfolio/2fbbaac52ebf4b49819cf8773a43a46f.jpg",
-      "smallImage": "img/portfolio/2fbbaac52ebf4b49819cf8773a43a46f.jpg"
-    },
-    {
-      "title": "Door Installation",
-      "largeImage": "img/portfolio/3fcc5f54e57245c7b177882a6fbd76a5.jpg",
-      "smallImage": "img/portfolio/3fcc5f54e57245c7b177882a6fbd76a5.jpg"
-    },
-    {
-      "title": "Wall Repair",
-      "largeImage": "img/portfolio/4f58d52295be4238ba5316e669b362aa.jpg",
-      "smallImage": "img/portfolio/4f58d52295be4238ba5316e669b362aa.jpg"
-    },
-    {
-      "title": "Furniture Assembly",
-      "largeImage": "img/portfolio/5b0a72b915f94a3599be9244c27d9610.jpg",
-      "smallImage": "img/portfolio/5b0a72b915f94a3599be9244c27d9610.jpg"
-    },
-    {
-      "title": "Flooring Installation",
-      "largeImage": "img/portfolio/6b893b00a90e43cb990c884f600df89a.jpg",
-      "smallImage": "img/portfolio/6b893b00a90e43cb990c884f600df89a.jpg"
-    },
-    {
-      "title": "Cabinet Installation",
-      "largeImage": "img/portfolio/6e558691a3044bd689bd9400f7b17bb1.jpg",
-      "smallImage": "img/portfolio/6e558691a3044bd689bd9400f7b17bb1.jpg"
-    },
-    {
-      "title": "Painting Service",
-      "largeImage": "img/portfolio/6ebaaa966b224c19871f000b31ecc11f.jpg",
-      "smallImage": "img/portfolio/6ebaaa966b224c19871f000b31ecc11f.jpg"
-    },
-    {
-      "title": "Door Repair",
-      "largeImage": "img/portfolio/6f2438fc73d24d6d8f8507d2a6f9389d.jpg",
-      "smallImage": "img/portfolio/6f2438fc73d24d6d8f8507d2a6f9389d.jpg"
-    },
-    {
-      "title": "Window Installation",
-      "largeImage": "img/portfolio/79c12dffa7c84bd99b1b179e4eea38eb.jpg",
-      "smallImage": "img/portfolio/79c12dffa7c84bd99b1b179e4eea38eb.jpg"
-    },
-    {
-      "title": "Bathroom Remodel",
-      "largeImage": "img/portfolio/8166f6db85544a92a1054cb162279b2d.jpg",
-      "smallImage": "img/portfolio/8166f6db85544a92a1054cb162279b2d.jpg"
-    },
-    {
-      "title": "Lighting Installation",
-      "largeImage": "img/portfolio/82ea4640b0754d5da6909232a7e464a7.jpg",
-      "smallImage": "img/portfolio/82ea4640b0754d5da6909232a7e464a7.jpg"
-    },
-    {
-      "title": "Kitchen Renovation",
-      "largeImage": "img/portfolio/85c19aea47c848e1bcb83f828eeb6c73.jpg",
-      "smallImage": "img/portfolio/85c19aea47c848e1bcb83f828eeb6c73.jpg"
-    },
-    {
-      "title": "Tile Installation",
-      "largeImage": "img/portfolio/962e7d421bd54db1a5d758038fcd9340.jpg",
-      "smallImage": "img/portfolio/962e7d421bd54db1a5d758038fcd9340.jpg"
-    },
-    {
-      "title": "Pipes Cleaning",
-      "largeImage": "img/portfolio/9ef1da47b060464d9b4166edf2e0e797.jpg",
-      "smallImage": "img/portfolio/9ef1da47b060464d9b4166edf2e0e797.jpg"
-    },
-    {
-      "title": "Pipes Cleaning",
-      "largeImage": "img/portfolio/ff069a36268c499e888416cd406febbf.jpg",
-      "smallImage": "img/portfolio/ff069a36268c499e888416cd406febbf.jpg"
-    },
-    {
-      "title": "Drywall Repair",
-      "largeImage": "img/portfolio/a4e506dffb154a2fb97bbd60f3cbc4f4.jpg",
-      "smallImage": "img/portfolio/a4e506dffb154a2fb97bbd60f3cbc4f4.jpg"
-    },
-    {
-      "title": "Countertop Installation",
-      "largeImage": "img/portfolio/b6761c3800a8497ab048758cb2b182ef.jpg",
-      "smallImage": "img/portfolio/b6761c3800a8497ab048758cb2b182ef.jpg"
-    },
-    {
-      "title": "Plumbing Repair",
-      "largeImage": "img/portfolio/bf698ff14bb447a1aeb169dcdf0df600.jpg",
-      "smallImage": "img/portfolio/bf698ff14bb447a1aeb169dcdf0df600.jpg"
-    },
-    {
-      "title": "Bracket Installation",
-      "largeImage": "img/portfolio/bracket before.jpg",
-      "smallImage": "img/portfolio/bracket before.jpg"
-    },
-
-    {
-      "title": "Furniture Assembly",
-      "largeImage": "img/portfolio/c5667fb05ada46408a24037f2cb444e7.jpg",
-      "smallImage": "img/portfolio/c5667fb05ada46408a24037f2cb444e7.jpg"
-    },
-    {
-      "title": "Shelving Installation",
-      "largeImage": "img/portfolio/d240587711884d67aa4fe299ae33a02a.jpg",
-      "smallImage": "img/portfolio/d240587711884d67aa4fe299ae33a02a.jpg"
-    },
-    {
-      "title": "Hardware Replacement",
-      "largeImage": "img/portfolio/d96d2307cbd34937bc0e02c630f7d173.jpg",
-      "smallImage": "img/portfolio/d96d2307cbd34937bc0e02c630f7d173.jpg"
-    },
-    {
-      "title": "Electrical Work",
-      "largeImage": "img/portfolio/e1b126fbee4a4898bdfe33b14d049bb8.jpg",
-      "smallImage": "img/portfolio/e1b126fbee4a4898bdfe33b14d049bb8.jpg"
-    },
-    {
-      "title": "Lock Installation",
-      "largeImage": "img/portfolio/e2d3d26f4ac6430dbd89cfb277885412.jpg",
-      "smallImage": "img/portfolio/e2d3d26f4ac6430dbd89cfb277885412.jpg"
-    },
-    {
-      "title": "Wall Repair",
-      "largeImage": "img/portfolio/e3bf0e2257d64973a49cff66ded80193.jpg",
-      "smallImage": "img/portfolio/e3bf0e2257d64973a49cff66ded80193.jpg"
-    },
-    {
-      "title": "Appliance Installation",
-      "largeImage": "img/portfolio/e964ad811352469eba8cacaae6287520.jpg",
-      "smallImage": "img/portfolio/e964ad811352469eba8cacaae6287520.jpg"
-    },
-    {
-      "title": "Sink Installation",
-      "largeImage": "img/portfolio/ee296aec950d426287d16182bcfb6f52.jpg",
-      "smallImage": "img/portfolio/ee296aec950d426287d16182bcfb6f52.jpg"
-    },
-    {
-      "title": "Bathroom Fixture",
-      "largeImage": "img/portfolio/f0333a362f254913a1585cecce113bae.jpg",
-      "smallImage": "img/portfolio/f0333a362f254913a1585cecce113bae.jpg"
-    },
-    {
-      "title": "Shower Installation",
-      "largeImage": "img/portfolio/f29ba7e7c51247f5897eacd7bfaa9def.jpg",
-      "smallImage": "img/portfolio/f29ba7e7c51247f5897eacd7bfaa9def.jpg"
-    },
-    {
-      "title": "Home Renovation",
-      "largeImage": "img/portfolio/f893e725fe064a9993f3ead2b2ee0cf2.jpg",
-      "smallImage": "img/portfolio/f893e725fe064a9993f3ead2b2ee0cf2.jpg"
-    },
-
-    {
-      "title": "Hinge Repair",
-      "largeImage": "img/portfolio/hinges after.jpg",
-      "smallImage": "img/portfolio/hinges after.jpg"
-    },
-    {
-      "title": "Kitchen Work",
-      "largeImage": "img/portfolio/WhatsApp Image 2024-10-31 at 12.29.59 PM (1).jpeg",
-      "smallImage": "img/portfolio/WhatsApp Image 2024-10-31 at 12.29.59 PM (1).jpeg"
-    },
-    {
-      "title": "Bathroom Work",
-      "largeImage": "img/portfolio/WhatsApp Image 2024-10-31 at 12.29.59 PM.jpeg",
-      "smallImage": "img/portfolio/WhatsApp Image 2024-10-31 at 12.29.59 PM.jpeg"
-    },
-    {
-      "title": "Plumbing Installation",
-      "largeImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (1).jpeg",
-      "smallImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (1).jpeg"
-    },
-    {
-      "title": "Electrical Installation",
-      "largeImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (2).jpeg",
-      "smallImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (2).jpeg"
-    },
-    {
-      "title": "Flooring Work",
-      "largeImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (3).jpeg",
-      "smallImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (3).jpeg"
-    },
-    {
-      "title": "Cabinet Work",
-      "largeImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (4).jpeg",
-      "smallImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (4).jpeg"
-    },
-    {
-      "title": "Painting Work",
-      "largeImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (5).jpeg",
-      "smallImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (5).jpeg"
-    },
-    {
-      "title": "Tile Work",
-      "largeImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (7).jpeg",
-      "smallImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (7).jpeg"
-    },
-    {
-      "title": "Bathroom Renovation",
-      "largeImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (8).jpeg",
-      "smallImage": "img/portfolio/WhatsApp Image 2024-11-12 at 12.56.26 PM (8).jpeg"
+      "title": "",
+      "beforeImage": "img/portfolio/Before Water thingy.jpeg",
+      "afterImage": "img/portfolio/After Water thingy.jpeg",
+      "description": ""
     }
   ],
   "Services": [
