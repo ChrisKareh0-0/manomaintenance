@@ -40,18 +40,18 @@ export const GalleryPage = (props) => {
                       className="col-12"
                     >
                       <div className="project-card">
-                        <div className="project-description">
+                        {/* <div className="project-description">
                           <h3>{d.title}</h3>
                           <p>{d.description}</p>
-                        </div>
+                        </div> */}
                         <div className="before-after-pair">
                           <div className="before-section">
                             <h3>Before</h3>
                             <div className="hover-bg">
                               <div onClick={() => openFullscreen(d.beforeImage)}>
                                 <div className="hover-text">
-                                  <h4>{d.title}</h4>
-                                  <p>Before</p>
+                                  {/* <h4>{d.title}</h4> */}
+                                  {/* <p>Before</p> */}
                                 </div>
                                 <img src={d.beforeImage} className="img-responsive gallery-img" alt={`${d.title} - Before`} />
                               </div>
@@ -62,8 +62,8 @@ export const GalleryPage = (props) => {
                             <div className="hover-bg">
                               <div onClick={() => openFullscreen(d.afterImage)}>
                                 <div className="hover-text">
-                                  <h4>{d.title}</h4>
-                                  <p>After</p>
+                                  {/* <h4>{d.title}</h4> */}
+                                  {/* <p>After</p> */}
                                 </div>
                                 <img src={d.afterImage} className="img-responsive gallery-img" alt={`${d.title} - After`} />
                               </div>

@@ -21,26 +21,26 @@
   "Gallery": [
     {
       "title": "",
-      "beforeImage": "img/portfolio/Before Bathroom.jpeg",
-      "afterImage": "img/portfolio/After Bathroom.jpeg",
+      "beforeImage": "img/portfolio/Before-Bathroom.jpeg",
+      "afterImage": "img/portfolio/After-Bathroom.jpeg",
       "description": ""
     },
     {
       "title": "",
-      "beforeImage": "img/portfolio/Before Piping.jpeg",
-      "afterImage": "img/portfolio/After Piping.jpeg",
+      "beforeImage": "img/portfolio/Before-Piping.jpeg",
+      "afterImage": "img/portfolio/After-Piping.jpeg",
       "description": ""
     },
     {
       "title": "",
-      "beforeImage": "img/portfolio/Before cieling.jpeg",
-      "afterImage": "img/portfolio/After ceiling.jpeg",
+      "beforeImage": "img/portfolio/Before-cieling.jpeg",
+      "afterImage": "img/portfolio/After-ceiling.jpeg",
       "description": ""
     },
     {
       "title": "",
-      "beforeImage": "img/portfolio/Before Water thingy.jpeg",
-      "afterImage": "img/portfolio/After Water thingy.jpeg",
+      "beforeImage": "img/portfolio/Before-Water-thingy.jpeg",
+      "afterImage": "img/portfolio/After-Water-thingy.jpeg",
       "description": ""
     }
   ],
